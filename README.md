@@ -1,4 +1,4 @@
-This project, as part of my machine learning class. explores how to predict short-term solar energy output using machine learning. The core idea is simple: solar power changes a lot with the weather, so accurate forecasting helps energy systems plan ahead and stay stable.
+This project, as part of my machine learning class, explores how to predict short-term solar energy output using machine learning. The core idea is simple: solar power changes a lot with the weather, so accurate forecasting helps energy systems plan ahead and stay stable.
 
 The dataset combines hourly solar output from a public University of Illinois energy repository with local weather records collected through NOAA’s reporting system. The weather features include temperature, dew point, humidity, cloud coverage, visibility, wind speed, and pressure. These measurements were cleaned, averaged across nearby stations for stability, and matched to daytime hours when solar production is meaningful.
 
